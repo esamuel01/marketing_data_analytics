@@ -8,3 +8,8 @@ This repository contains projects and analyses focused on marketing data, campai
    - Analyzed click-through rates across age and gender groups.
    - Insights into the cost-efficiency of various campaigns and CTAs.
    - [Notebook](notebooks/facebook_ads_exploratory_analysis.ipynb)
+
+## Folder Structure
+- `data/`: Contains datasets used in the analyses.
+- `notebooks/`: Jupyter Notebooks with code and visualizations.
+- `requirements.txt`: Python dependencies for the analyses.
