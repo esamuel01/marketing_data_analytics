@@ -1,0 +1,12 @@
+# Requirements for Marketing Data Analytics Project
+
+# Core Libraries
+pandas==1.3.5
+numpy==1.21.5
+
+# Visualization Libraries
+matplotlib==3.4.3
+seaborn==0.11.2
+
+# Optional Libraries (if additional functionality is needed)
+scikit-learn==0.24.2
